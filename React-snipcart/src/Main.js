@@ -30,10 +30,9 @@ export default class Main extends React.Component{
                                    data-item-image={product.img}
                                    data-item-custom1-name="Frame color"
                                    data-item-custom1-options="Black|Brown[+100.00]|Gold[+300.00]"
-                                   >Add to cart($10)</button>
+                                   >Add to cart</button>
                                    
-                                   {/* <button class="snipcart-checkout">Click here to checkout</button> */}
-                                   {/* <Click /> */}
+
                                    
                                 
                                 </div>
@@ -42,31 +41,7 @@ export default class Main extends React.Component{
                     )
                 })}
             </div>
-            // <div>
-            //     {products.map((product, index)=>{
-            //             return(
-                            
-            //                 <div className="container" key={index}>  
-            //                     <div className="row">
-            //                         <div className="col-md-2 col-sm-2 col-lg-2 s">
-            //                             <img src={product.img} /> 
-            //                         </div>
-            //                         <div className="col-md-10 col-sm-10 col-lg-10 ">
-            //                             <h4 className="title">Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <i>{product.Title}</i></h4> 
-            //                             <h5 className="id"><b>Id</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;{product.Id}</h5>
-            //             <h5 className="maker"><b>Maker</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;{product.Maker}</h5>
-            //                             <p className="Description"><b>Description: </b><i>{product.Description}</i></p>
-            //                            <p><b>Url&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</b> <i>{product.Url}</i></p> 
-            //                            <Click />
-                                    
-                                    
-            //                         </div>
-            //                     </div>
-            //                 </div>
-                              
-            //             )
-            //         })}
-            //     </div>
+        
             
         )
     }
