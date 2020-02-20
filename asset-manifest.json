@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Snipcart-practice/static/css/main.a0fca006.chunk.css",
+    "main.js": "/React-Snipcart-practice/static/js/main.a47d203a.chunk.js",
+    "main.js.map": "/React-Snipcart-practice/static/js/main.a47d203a.chunk.js.map",
+    "runtime-main.js": "/React-Snipcart-practice/static/js/runtime-main.1e876543.js",
+    "runtime-main.js.map": "/React-Snipcart-practice/static/js/runtime-main.1e876543.js.map",
+    "static/js/2.d5a6855d.chunk.js": "/React-Snipcart-practice/static/js/2.d5a6855d.chunk.js",
+    "static/js/2.d5a6855d.chunk.js.map": "/React-Snipcart-practice/static/js/2.d5a6855d.chunk.js.map",
+    "index.html": "/React-Snipcart-practice/index.html",
+    "precache-manifest.f8a1d934d6ca7e97b44df9bd4f0b5c3e.js": "/React-Snipcart-practice/precache-manifest.f8a1d934d6ca7e97b44df9bd4f0b5c3e.js",
+    "service-worker.js": "/React-Snipcart-practice/service-worker.js",
+    "static/css/main.a0fca006.chunk.css.map": "/React-Snipcart-practice/static/css/main.a0fca006.chunk.css.map",
+    "static/js/2.d5a6855d.chunk.js.LICENSE": "/React-Snipcart-practice/static/js/2.d5a6855d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e876543.js",
+    "static/js/2.d5a6855d.chunk.js",
+    "static/css/main.a0fca006.chunk.css",
+    "static/js/main.a47d203a.chunk.js"
+  ]
+}
