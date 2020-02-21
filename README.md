@@ -1,4 +1,4 @@
-## Demo of React app integrated with Shopping cart https://sunilkumarvj.github.io/React-Snipcart-practice/
+## Demo of React app integrated with Shopping cart: https://sunilkumarvj.github.io/React-Snipcart-practice/
 
 ## Available Components
 
