@@ -1,4 +1,4 @@
-Simple-Shopping-Cart-ProdLists was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo of React app integrated with Shopping cart https://sunilkumarvj.github.io/React-Snipcart-practice/
 
 ## Available Components
 
